@@ -13,7 +13,7 @@ Click submit, and the data is posted to the sheet with the same month as the dat
 
 ![alt text](https://github.com/adam-gill/PF-Spreadsheet-Scripts/blob/main/EntryExecution1.PNG?raw=true)\
 
-Another transaction, this of the type Investment. -->
+Another transaction, this of the type Expense. -->
 
 ![alt text](https://github.com/adam-gill/PF-Spreadsheet-Scripts/blob/main/InputEntered2.PNG?raw=true)
 
@@ -21,7 +21,7 @@ Result. -->
 
 ![alt text](https://github.com/adam-gill/PF-Spreadsheet-Scripts/blob/main/EntryExecution2.PNG?raw=true)
 
-Another transaction, this of the type Expense. -->
+Another transaction, this of the type Investment. -->
 
 ![alt text](https://github.com/adam-gill/PF-Spreadsheet-Scripts/blob/main/InputEntered3.PNG?raw=true)
 
